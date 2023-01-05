@@ -114,7 +114,7 @@ INSTALL_REQUIRES = ["ninja>=1.10.0.post2, <1.11",
                     # Ticket: 69520
                     "pyparsing<3.0",
                     "pymoo==0.5.0",
-                    "jsonschema==3.2.0",
+                    "jsonschema>=3.2.0",
                     "pydot>=1.4.1",
                     "jstyleson>=0.0.2",
                     "tqdm>=4.54.1",
